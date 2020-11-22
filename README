@@ -1,0 +1,1 @@
+this is the tieredImageNet datasets for few-shot learning. we resize all the pictures to 84X84 and provide the csv file for tain, val and test.
